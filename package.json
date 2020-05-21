@@ -1,0 +1,20 @@
+{
+  "name": "kdenlive-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/awesome-arcade/kde-html/kdenlive-html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/awesome-arcade/kde-html/kdenlive-html/issues"
+  },
+  "homepage": "https://gitlab.com/awesome-arcade/kde-html/kdenlive-html#readme"
+}
