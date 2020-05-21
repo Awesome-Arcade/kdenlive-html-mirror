@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": 
+    "start": ""
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://gitlab.com/awesome-arcade/kde-html/kdenlive-html/issues"
   },
-  "homepage": "https://gitlab.com/awesome-arcade/kde-html/kdenlive-html#readme"
+  "homepage": "https://gitlab.com/awesome-arcade/kde-html/kdenlive-html#readme",
+  "engine": {
+	"node": "12.16.3"
+  }
 }
