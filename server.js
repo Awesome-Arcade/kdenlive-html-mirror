@@ -6,4 +6,4 @@ http.createServer(function
   res.write('Hello World!'); //write a response to the 
   client
   res.end(); //end the response
-}).listen($PORT);
+}).listen(8080);
