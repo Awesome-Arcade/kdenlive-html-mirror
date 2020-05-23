@@ -53,6 +53,10 @@ body {
     <p id="text1">File Edit View Project Tool Clip Timeline Monitor Settings
       Help</p>
     <img src="./new_project.webp"><br="" style="width: 26px; height: 28px;">New<img
-        src="./open.webp" <="" br="" style="width: 23px; height: 25px;"> </br="">
+        src="./open.webp" <="" br="" style="width: 23px; height: 25px;">Open</br=""><img
+      src="./save.webp" <="" body="" style="width: 27px; height: 31px;">Save<img
+      src="./undo.webp" style="width: 25px; height: 28px;">Undo<img src="./redo.webp"
+      <="" body="" style="width: 24px; height: 27px;">Redo<img src="./copy.webp"
+      style="width: 27px; height: 33px;">Copy<img src="./paste.webp" style="width: 28px; height: 33px;">Paste
   </body>
 </html>
